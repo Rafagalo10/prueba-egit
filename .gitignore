@@ -1,1 +1,25 @@
-/bin/
+# --- Eclipse ---
+.metadata/
+.recommenders/
+bin/
+build/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# --- Java ---
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+*.log
